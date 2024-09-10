@@ -15,9 +15,9 @@ use App\Http\Controllers\CustomerController;
 |
 */
 
-Route::get('/', function () {
-    return view('customers.depan');
-})->name('customer.depan');
+Route::get('/', function () { return view('LandingPage.home');})->name('home');
+
+Route::get('/mobile', [CustomerController::class, 'depan'])->name('customer.depan');
 
 Route::get('/customer/tiktok', [CustomerController::class, 'tiktok'])->name('customer.tiktok');
 Route::get('/customer/instagram', [CustomerController::class, 'instagram'])->name('customer.instagram');

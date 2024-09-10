@@ -7,6 +7,9 @@ use App\Models\Customer;
 
 class CustomerController extends Controller
 {
+    public function home(){
+        return view('LandingPage.home');
+    }
     public function depan(){
         $customers = Customer::all();
 

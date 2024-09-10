@@ -59,7 +59,6 @@
             <img src="{{ asset('images/croisant1.jfif') }}" alt="Food 2">
             <a href="https://www.tiktok.com/@richiamocoffee/video/7398141650733649170?is_from_webapp=1&sender_device=pc" target="_blank"> <img src="{{ asset('fromTiktok/tiktok1.png') }}" alt="Food 1" > </a>
             <img src="{{ asset('images/dessert2.jfif') }}" alt="Food 4" >
-           
             <img src="{{ asset('images/dessert3.jfif') }}" alt="Food 4" >
             <img src="{{ asset('images/dessert4.jfif') }}" alt="Food 4" >
         </div>
