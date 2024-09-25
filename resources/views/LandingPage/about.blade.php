@@ -5,7 +5,7 @@
                     <h1 class="display-4 fw-semibold">About Us</h1>
                     <div class="line"></div>
                     <p>Being magical is something to appreciate about , and being creative is something to try. My name is 
-                        Daniel and i am the boss for Meyja.
+                        Daniel and i am the boss for JomMeja.
                     </p>
                 </div>
             </div>

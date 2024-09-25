@@ -9,7 +9,7 @@
                         margin-left: 0%;
                         margin-bottom: auto;"></a>
                     <div class="line"></div>
-                    <p>MEJ4</p>
+                    <p>JomMeja</p>
                     <div class="social-icons">
                         <a href="#"><i class="ri-twitter-fill"></i></a>
                         <a href="#"><i class="ri-instagram-fill"></i></a>
