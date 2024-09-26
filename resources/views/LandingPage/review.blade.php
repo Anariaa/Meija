@@ -5,7 +5,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">Testimonials</h1>
                         <div class="line"></div>
-                        <p>What others say abour Meija </p>
+                        <p>What others say about JomMeja </p>
                     </div>
                 </div>
             </div>

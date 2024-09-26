@@ -39,7 +39,7 @@
                     <ul>
                         <li>Yoo Tech Sdn. Bhd.</li>
                         <li>+60 11-2345-6789</li>
-                        <li>www.meija.com</a></li>
+                        <li>www.jommeja.com</a></li>
                     </ul>
                 </div>
                 </div>
@@ -49,10 +49,10 @@
             <div class="container">
                 <div class="row g-4 justify-content-between">
                     <div class="col auto">
-                        <p class="mb-0">Copyright © 2024 Meija. All rights reserved.</p>
+                        <p class="mb-0">Copyright © 2024 JomMeja. All rights reserved.</p>
                     </div>
                     <div class="col auto text-end">
-                        <p class="mb-0">Designed By <a href="#">Meija Team</a></p>
+                        <p class="mb-0">Designed By <a href="#">JomMeja Team</a></p>
                     </div>
                 </div>
             </div>

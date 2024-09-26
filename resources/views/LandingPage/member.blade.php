@@ -5,7 +5,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">Team Member</h1>
                         <div class="line"></div>
-                        <p>The incredible team behind Meyja's success!</p>
+                        <p>The incredible team behind JomMeja success!</p>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                             <img src="Landing/assets/images/aime.jpg" alt="" style="height: 550px;">
                         </div>
                         <div class="team-member-content">
-                            <h4 class="text-white">Aiman Asyraf</h4>
+                            <h4 class="text-white">Aiman Ashraf</h4>
                             <p class="mb-0 text-white">Team Leader</p>
                         </div>
                     </div>

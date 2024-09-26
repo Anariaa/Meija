@@ -5,7 +5,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">Our Clients</h1>
                         <div class="line"></div>
-                        <p>Our top clients at Meija include renowned restaurants worldwide, as well as emerging small businesses.
+                        <p>Our top clients at JomMeja include renowned restaurants worldwide, as well as emerging small businesses.
                         </p>
                     </div>
                 </div>
