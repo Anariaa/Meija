@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-    <link rel="icon" href="{{ asset('images/logoMeja1.png') }}" type="image/icon type">
+    <link rel="icon" href="{{ asset('images/logoMeja4.png') }}" type="image/icon type">
     <link rel="stylesheet" type="text/css" href="{{ url('/CSS/sidebr.css') }}" />
 
     <title>Homepage</title>
@@ -14,8 +14,8 @@
     <div class="container">
         <div class="header">
             <div class="logo">
-                <img src="" alt="Logo" class="logo-img">
-                Mej4
+                <img src="{{ asset('images/logoMeja4.png') }}" alt="Logo" class="logo-img">
+                JomMeja
             </div>
             <div class="menu-icon" onclick="toggleSidebar()">☰</div>
         </div>
@@ -59,8 +59,12 @@
             <img src="{{ asset('images/croisant1.jfif') }}" alt="Food 2">
             <a href="https://www.tiktok.com/@richiamocoffee/video/7398141650733649170?is_from_webapp=1&sender_device=pc" target="_blank"> <img src="{{ asset('fromTiktok/tiktok1.png') }}" alt="Food 1" > </a>
             <img src="{{ asset('images/dessert2.jfif') }}" alt="Food 4" >
+           
             <img src="{{ asset('images/dessert3.jfif') }}" alt="Food 4" >
-            <img src="{{ asset('images/dessert4.jfif') }}" alt="Food 4" >
+            <img src="{{ asset('images/dessert4.jfif') }}" alt="Food 5" >
+            <img src="{{ asset('fromInstagram/insta1.jfif') }}" alt="Food 6" >
+            <img src="{{ asset('fromInstagram/insta2.jfif') }}" alt="Food 7" >
+            <img src="{{ asset('fromInstagram/insta3.jfif') }}" alt="Food 8" >
         </div>
     </div>
 

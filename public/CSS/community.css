@@ -28,6 +28,13 @@ body {
 .logo {
     font-size: 24px;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.logo-img{
+    border-radius: 10px;
+    padding: 1px;
+    width: 35px;
 }
 
 .menu-icons {
@@ -47,7 +54,7 @@ body {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-.logo-img {
+.logo-img2 {
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -55,7 +62,7 @@ body {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 34px;
     font-weight: bold;
     margin-bottom: 20px;
 }
@@ -66,13 +73,15 @@ h2 {
     flex-direction: column;
     gap: 10px;
 }
-
+.buttons a{
+    font-size: 16px;
+}
 .button {
-    background-color: #3498db;
+    background-color: #1f7fe7;
     color: white;
     padding: 10px;
     text-decoration: none;
-    border-radius: 20px;
+    border-radius: 13px;
     font-weight: bold;
     transition: background-color 0.3s ease;
 }
@@ -137,15 +146,16 @@ h2 {
     }
 
     h2 {
-        font-size: 20px;
+        font-size: 30px;
+        font-style: italic;
     }
 
     .buttons {
-        gap: 8px;
+        gap: 18px;
     }
 
     .button {
-        padding: 8px;
+        padding: 13px;
         font-size: 14px;
     }
 }

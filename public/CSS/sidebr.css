@@ -67,6 +67,11 @@ body {
     display: flex;
     align-items: center;
 }
+.logo-img{
+    border-radius: 10px;
+    padding: 1px;
+    width: 35px;
+}
 
 .menu-icon {
     font-size: 24px;
@@ -111,7 +116,7 @@ body {
 }
 
 .button2 {
-    background-color: #02eaff;
+    background-color: #6753f9;
     
 }
 
@@ -220,7 +225,7 @@ body {
         display: flex;
         align-items: center; /* Ensures that the image and text are vertically aligned */
         padding: 15px;
-        background-color: #f8f9fa;
+        background-color: #f1eeee;
         border-radius: 5px;
         margin-bottom: 20px;
         width: 100%;

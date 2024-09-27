@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-    <link rel="icon" href="{{ asset('images/logoMeja1.png') }}" type="image/icon type">
+    <link rel="icon" href="{{ asset('images/logoMeja4.png') }}" type="image/icon type">
 
     <link rel="stylesheet" type="text/css" href="{{ url('/CSS/sidebr.css') }}" />
 
@@ -15,7 +15,9 @@
 <body>
     <div class="container">
         <div class="header">
-            <div class="logo">Mej4</div>
+            <div class="logo"><img src="{{ asset('images/logoMeja4.png') }}" alt="Logo" class="logo-img">
+                JomMeja
+            </div>
             <div class="menu-icon" onclick="toggleSidebar()">☰</div>
         </div>
         <div id="sidebar" class="sidebar">
@@ -28,8 +30,8 @@
         <div class="highlight-text">New offers at the tip of your finger!</div>
         <div class="subtitle">Scan & Earn.</div>
 
-        <a href="" class="button">Join Our Community Group</a>
-        <a href="" class="button2   ">Our Menu</a>
+        <a href="{{route('customer.community')}}" class="button">Join Our Community Group</a>
+        <a href="" class="button2">Our Menu</a>
 
         <a href="https://www.instagram.com/richiamo.klts/" target="_blank">
             <div class="card">
@@ -44,7 +46,7 @@
             <a href="{{route('customer.depan')}}" ><button>All</button></a>
             <a href="{{route('customer.tiktok')}}" ><button>Tiktok</button></a>
             <a href="{{route('customer.instagram')}}"><button class="active">Instagram</button></a>
-            <button>Facebook</button>
+            <a href="{{route('customer.review')}}"><button>Reviews</button></a>
         </div>
         <div class="image-grid">
             <a href="https://www.instagram.com/p/C-HfKqrzep0/" target="_blank"> <img src="{{ asset('fromInstagram/insta1.jfif') }}" alt="Food 1" width="200" height="350"> </a>
