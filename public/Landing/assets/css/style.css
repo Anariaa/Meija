@@ -368,3 +368,21 @@ footer .line {
     background-color: var(--c-brand);
     color: white;
 }
+
+/* UI */
+.box-wrapper {
+    padding: 20px;
+    border: 4px solid #eee;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease;
+}
+
+.box-wrapper:hover {
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.box-wrapper img {
+    max-width: 264px; /* Adjust based on your icon size */
+    height: auto;
+    margin-bottom: 10px;
+}
