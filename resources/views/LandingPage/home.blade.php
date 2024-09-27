@@ -24,6 +24,9 @@
     <!-- service -->
     @include('LandingPage.service')
 
+    <!--screenshot user interface-->
+    @include('LandingPage.userinterface')
+
     <!-- Counter -->
     @include('LandingPage.counter')
 
